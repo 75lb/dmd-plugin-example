@@ -1,3 +1,3 @@
-exports.generatedDate = function(){
-    return new Date().toUTCString();
+exports.generatedDate = function () {
+  return new Date().toUTCString()
 }
